@@ -3,9 +3,8 @@
 I am Mohammad Sadegh Masoumi
 🥰💻
 
-""""
+
 -> python developer 🐍 
 -> Data Analysis 📉
 -> Django developer
 
-""""
