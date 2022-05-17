@@ -4,7 +4,7 @@ I am Mohammad Sadegh Masoumi
 🥰💻
 
 
--> python developer 🐍 
--> Data Analysis 📉
--> Django developer
+-> python developer 🐍 \n
+-> Data Analysis 📉 \n
+-> Django developer \n
 
