@@ -3,8 +3,5 @@
 I am Mohammad Sadegh Masoumi
 🥰💻
 
-
+- software engineer 
 - python developer 🐍 
-- Data Analysis 📉 
-- Django developer 
-
