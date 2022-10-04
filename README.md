@@ -24,4 +24,4 @@ spec:
     drink: ☕️
 ```
 
-- [Linkedin]((https://www.linkedin.com/in/sadegh-masoumi/))
+- [Linkedin](https://www.linkedin.com/in/sadegh-masoumi/)
