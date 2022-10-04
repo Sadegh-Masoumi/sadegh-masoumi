@@ -1,6 +1,6 @@
 # Hi 🥹
 
-```
+```yaml
 apiVersion: v22
 kind: Human
 metadata:
