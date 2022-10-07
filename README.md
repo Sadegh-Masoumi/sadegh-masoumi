@@ -1,5 +1,4 @@
-# Hi 😊
-welcome
+# Hi There😊
 
 ```yaml
 apiVersion: v22
@@ -16,7 +15,17 @@ spec:
     - 
       type: instagram
       where: pytopy.ir
-      
+  
+  work:
+    -
+      programing languages:
+        - python
+        - Go
+    -  
+      fields:
+        - back-end
+        - dev-ops
+        - data analysis
   favorites:
     animal: 🐶
     emoji: 😄
@@ -25,3 +34,4 @@ spec:
 ```
 
 - [Linkedin](https://www.linkedin.com/in/sadegh-masoumi/)
+
