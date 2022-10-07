@@ -18,10 +18,10 @@ spec:
   
   work:
     -
-      programing languages:
+      programing_languages:
         - python
         - Go
-    -  
+        
       fields:
         - back-end
         - dev-ops
