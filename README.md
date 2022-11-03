@@ -11,7 +11,7 @@ spec:
   locations:
     - 
       type: YouTube
-      where: pytopy.ir
+      where: Bit Code
     - 
       type: instagram
       where: pytopy.ir
